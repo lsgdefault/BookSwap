@@ -1,17 +1,23 @@
 <div align="center">
-      <h1> <img src="https://raw.githubusercontent.com/lsgdefault/BookSwap/main/static/img/BookSwap.png" width="80px"><br/>A book sharing web app written in Python / Django</h1>
+      <h1> <img src="https://raw.githubusercontent.com/lsgdefault/BookSwap/main/static/img/BookSwap.png" width="80px"><br/>BookSwap</h1>
      </div>
 <p align="center"> <a href="https://github.com/lsgdefault" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/default_yt_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.instagram.com/kaivalya_ahir" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/kaivalya-ahir/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
 # Description
-Fake Detection System Using Machine Learning(ANN).
-This Project is a fake profile detection system for social media.
+A book sharing web app written in Python / Django
+Bookzilla is a book-sharing application written in Python using the Django Framework. Before deploying, you need to install the prerequisites.
 
-# Features
+# Prerequisites
 
-	•Supports Twitter for profile detection & check
-	•Supports Instagram for profile detection  & check
-	•Can Add your own user data to check
+	1. Python (version 2.7 or higher)
+
+	2. Git
+
+	3. Django (version 1.7 or higher)
+
+	4. Pip, the Python Package Manager 
+
+	5. SQLite 3 (using apt-get)
 
 
 # Tech Used
@@ -28,10 +34,10 @@ For instance, my directory is E:\FPD
 
 **Note: You Must have Installed Python and Django In Your Device**
 
-Step 1- creating virtutal environment as myvenv:- E:\FPD>python -m venv myvenv \
-Step 2- activating virtual environment:- E:\FPD>myvenv\Scripts\activate \
-Step 3- installing requirement files to run this project:- (myvenv) E:\FPD>pip install -r requirements.txt \
-Step 4- project on server:- (myvenv) E:\FPD>python manage.py runserver 
+Step 1- creating virtutal environment as myvenv:- E:\BookSwap>python -m venv myvenv \
+Step 2- activating virtual environment:- E:\BookSwap>myvenv\Scripts\activate \
+Step 3- installing requirement files to run this project:- (myvenv) E:\BookSwap>pip install -r requirements.txt \
+Step 4- project on server:- (myvenv) E:\BookSwap>python manage.py runserver 
 
 The above mentioned requirements.txt file is already provided with project.
 
