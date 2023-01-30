@@ -6,7 +6,7 @@
 # Description
 A book sharing web app written in Python / Django.
 This Project we made in 2020 for Our National Level Hackathon called Student Start-up and Innovation Policy(SSIP).
-Bookzilla is a book-sharing application written in Python using the Django Framework. Before deploying, you need to install the prerequisites.
+BookSwap is a book-sharing application written in Python using the Django Framework. Before deploying, you need to install the prerequisites.
 
 # Prerequisites
 
